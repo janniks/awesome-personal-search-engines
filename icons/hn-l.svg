@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="12px" viewBox="0 0 14 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>hn-l</title>
+    <defs>
+        <linearGradient x1="50%" y1="22.5267035%" x2="50%" y2="99.2111151%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D9DCEC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="hn-l" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M11,0.5 C11.4142136,0.5 11.7892136,0.667893219 12.0606602,0.939339828 C12.3321068,1.21078644 12.5,1.58578644 12.5,2 L12.5,2 L12.5,10 C12.5,10.4142136 12.3321068,10.7892136 12.0606602,11.0606602 C11.7892136,11.3321068 11.4142136,11.5 11,11.5 L11,11.5 L3,11.5 C2.58578644,11.5 2.21078644,11.3321068 1.93933983,11.0606602 C1.66789322,10.7892136 1.5,10.4142136 1.5,10 L1.5,10 L1.5,2 C1.5,1.58578644 1.66789322,1.21078644 1.93933983,0.939339828 C2.21078644,0.667893219 2.58578644,0.5 3,0.5 L3,0.5 Z" id="Rectangle" stroke="#1B1F23" fill="url(#linearGradient-1)"></path>
+        <polygon id="Y" fill="#1B1F23" fill-rule="nonzero" points="7.66116663 9.5 7.67047817 6.36166018 10 2.5 8.48752599 2.5 7.03118503 5.07249568 6.96881497 5.07249568 5.51247401 2.5 4 2.5 6.32952183 6.36166018 6.32021029 9.5"></polygon>
+    </g>
+</svg>

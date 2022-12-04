@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="12px" viewBox="0 0 14 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>folder-l</title>
+    <defs>
+        <linearGradient x1="50%" y1="22.5267035%" x2="50%" y2="99.2111151%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D9DCEC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="folder-l" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4.58578644,0.5 C4.98361117,0.5 5.36514204,0.658035261 5.64644661,0.939339828 L5.64644661,0.939339828 L6.06066017,1.35355339 L12,1.5 C12.4142136,1.5 12.7892136,1.66789322 13.0606602,1.93933983 C13.3321068,2.21078644 13.5,2.58578644 13.5,3 L13.5,3 L13.5,9 C13.5,9.41421356 13.3321068,9.78921356 13.0606602,10.0606602 C12.7892136,10.3321068 12.4142136,10.5 12,10.5 L12,10.5 L2,10.5 C1.58578644,10.5 1.21078644,10.3321068 0.939339828,10.0606602 C0.667893219,9.78921356 0.5,9.41421356 0.5,9 L0.5,9 L0.5,2 C0.5,1.58578644 0.667893219,1.21078644 0.939339828,0.939339828 C1.21078644,0.667893219 1.58578644,0.5 2,0.5 L2,0.5 Z" id="Rectangle" stroke="#1B1F23" fill="url(#linearGradient-1)"></path>
+    </g>
+</svg>
