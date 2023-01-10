@@ -39,7 +39,6 @@
 Content **with a Focus on Building/Analyzing/Discussing Search Engines**
 
 - **Articles**
-  - [The Second Coming of the Search Engine](https://mmry.io/blog/20210807-the-second-coming-of-the-search-engine)
   - [Searching the web for < $1000 / month](https://quickwit.io/blog/commoncrawl/)
   - [Building a search engine from scratch](https://0x65.dev/blog/2019-12-06/building-a-search-engine-from-scratch.html)
   - [The Second Coming of the Search Engine](https://mmry.io/blog/20210807-the-second-coming-of-the-search-engine)
