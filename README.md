@@ -26,8 +26,8 @@
 - [![Open-Source](./icons/github.svg)](https://github.com/amirgamil/apollo) [![HN Discussion](./icons/hn.svg)](https://news.ycombinator.com/item?id=27961185) ![Self-Hosted](./icons/folder.svg) [Apollo](https://apollo.amirbolous.com) — a Unix-style personal search engine and web crawler for your digital footprint
 - ![Self-Hosted](./icons/folder.svg) [APSE, A Personal Search Engine](https://apse.io) — Search anything you view on the web or your computer
 - ![Self-Hosted](./icons/folder.svg) [Sehn](https://www.sehn.app) — a personal search engine for the content you care about
-- ![Cloud-Hosted](./icons/cloud.svg) [Recoll](https://www.lesbonscomptes.com/recoll/pages/index-recoll.html) — full-text search for your desktop
 - ![Cloud-Hosted](./icons/cloud.svg) [Operand](https://operand.ai) — Build and share your own indexes from sources across the web
+- ![Cloud-Hosted](./icons/cloud.svg) [Recoll](https://www.lesbonscomptes.com/recoll/pages/index-recoll.html) — full-text search for your desktop
 - ![Cloud-Hosted](./icons/cloud.svg) [LetsFind ](https://letsfind.io) — a private search engine that integrates with your personal knowledge sources
 - ![Cloud-Hosted](./icons/cloud.svg) [Searchable](https://www.searchable.ai) — One search for all your files
 
