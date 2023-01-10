@@ -6,17 +6,18 @@
   <a href='https://awesome.re'>
     <img src='https://awesome.re/badge.svg' alt='Awesome'>
   </a>
+  <a href='https://twitter.com/janniksco'>
+    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=http%3A%2F%2Flocalhost">
+  </a>
 </p>
 
 ### Contents <!-- omit in toc -->
 
 - [Personal Search Engines](#personal-search-engines)
-- [Related](#related)
-  - [Similar Tools](#similar-tools)
-  - [Tools for Thought](#tools-for-thought)
-  - [Content](#content)
+  - [Related Content](#related-content)
+  - [Related Tools](#related-tools)
   - [Search Engines](#search-engines)
-  - [Awesome Lists](#awesome-lists)
+  - [Tools for Thought](#tools-for-thought)
 
 > **Legend**:<br/>![GitHub Icon](./icons/github-l.svg) Open-Source / Source-Available, _linked_<br/> ![Y Icon](./icons/hn-l.svg) Hacker-News Discussion, _linked_<br/> ![Folder Icon](./icons/folder-l.svg) Self-Hosted<br/> ![Cloud Icon](./icons/cloud-l.svg) Cloud (aka not Self-Hosted)
 
@@ -31,45 +32,52 @@
 - ![Cloud-Hosted](./icons/cloud.svg) [LetsFind ](https://letsfind.io) — a private search engine that integrates with your personal knowledge sources
 - ![Cloud-Hosted](./icons/cloud.svg) [Searchable](https://www.searchable.ai) — One search for all your files
 
-## Related
+---
 
-### Similar Tools
+### Related Content
 
-> Tools **with a Focus on Storing or Resurfacing Content**
-
-- [![Open-Source](./icons/github.svg)](https://github.com/karlicoss/promnesia#readme) [Promnesia](https://beepb00p.xyz/promnesia.html) — a browser extension that serves as a web surfing copilot by enhancing your browsing history
-- ![Cloud-Hosted](./icons/cloud.svg) [Heyday](https://heyday.xyz) — an AI-powered memory assistant that resurfaces content you forgot about
-- ![Cloud-Hosted](./icons/cloud.svg) [Dashworks ](https://www.dashworks.ai) — a searchable company knowledge base
-- ![Cloud-Hosted](./icons/cloud.svg) [mymind](https://mymind.com) — an extension for your mind
-
-### Tools for Thought
-
-> Tools for Thought **with a Focus on Search**
-
-### Content
-
-> Content **with a Focus on Building/Analyzing/Discussing Search Engines**
+Content **with a Focus on Building/Analyzing/Discussing Search Engines**
 
 - **Articles**
+  - [The Second Coming of the Search Engine](https://mmry.io/blog/20210807-the-second-coming-of-the-search-engine)
   - [Searching the web for < $1000 / month](https://quickwit.io/blog/commoncrawl/)
   - [Building a search engine from scratch](https://0x65.dev/blog/2019-12-06/building-a-search-engine-from-scratch.html)
   - [The Second Coming of the Search Engine](https://mmry.io/blog/20210807-the-second-coming-of-the-search-engine)
 - **Videos**
   - [RubyConf 2018 - Building a Memex (with Ruby!) by Andrew Louis](https://www.youtube.com/watch?v=DFWxvQn4cf8)
 
+### Related Tools
+
+Tools **with a Focus on Storing or Resurfacing Content**
+
+- [![Open-Source](./icons/github.svg)](https://github.com/karlicoss/promnesia#readme) [Promnesia](https://beepb00p.xyz/promnesia.html) — a browser extension that serves as a web surfing copilot by enhancing your browsing history
+- ![Cloud-Hosted](./icons/cloud.svg) [Heyday](https://heyday.xyz) — an AI-powered memory assistant that resurfaces content you forgot about
+- ![Cloud-Hosted](./icons/cloud.svg) [Dashworks ](https://www.dashworks.ai) — a searchable company knowledge base
+- ![Cloud-Hosted](./icons/cloud.svg) [mymind](https://mymind.com) — an extension for your mind
+
 ### Search Engines
 
-> Search Engines **with a Focus on Private Data or Privacy**
+Search Engines **with a Focus on Private Data or Privacy**
 
 - [![Open-Source](./icons/github.svg)](https://github.com/mwmbl/mwmbl) [mwmbl](https://mwmbl.org) — a free, open-source and non-profit search engine
 - [DuckDuckGo](https://duckduckgo.com) — an internet search engine that emphasizes protecting searchers' privacy
 - [You.com](https://you.com) — an ad-free, private search engine that you control
 
-### Awesome Lists
+### Tools for Thought
 
-> Related Awesome Lists
+Tools for Thought **with a Focus on Search**
 
-- todo: Tools for Thought
+- [![Open-Source](./icons/github.svg)](https://github.com/logseq/logseq) [Logseq](https://logseq.com) — a privacy-first, open-source knowledge base
+- ![Self-Hosted](./icons/folder.svg) ![Cloud-Hosted](./icons/cloud.svg) [Obsidian](https://obsidian.md) — a knowledge base that works on local Markdown files
+- [Muse](https://museapp.com) — your tool for deep work on iPad and Mac
+- [Roam Research](https://roamresearch.com) — a note taking tool for networked thought.
+- [Anytype.io](https://anytype.io) — an operating system for life
+
+---
+
+#### Related Awesome Lists <!-- omit in toc -->
+
+- [Awesome Tools for Thought](https://github.com/jamesonl/awesome-tools-for-thought)
 
 ---
 
