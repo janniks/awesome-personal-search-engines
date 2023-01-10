@@ -40,7 +40,7 @@
 - [![Open-Source](./icons/github.svg)](https://github.com/karlicoss/promnesia#readme) [Promnesia](https://beepb00p.xyz/promnesia.html) — a browser extension that serves as a web surfing copilot by enhancing your browsing history
 - ![Cloud-Hosted](./icons/cloud.svg) [Heyday](https://heyday.xyz) — an AI-powered memory assistant that resurfaces content you forgot about
 - ![Cloud-Hosted](./icons/cloud.svg) [Dashworks ](https://www.dashworks.ai) — a searchable company knowledge base
-- - ![Cloud-Hosted](./icons/cloud.svg) [mymind](https://mymind.com) — an extension for your mind
+- ![Cloud-Hosted](./icons/cloud.svg) [mymind](https://mymind.com) — an extension for your mind
 
 ### Tools for Thought
 
